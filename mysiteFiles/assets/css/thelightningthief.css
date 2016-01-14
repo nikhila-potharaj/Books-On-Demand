@@ -1,0 +1,124 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: url("../images/screenshot.png");
+  background-size: 100% 120%;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.info {
+    background-color: #003366;
+    max-width: 60%;
+    margin-left: 20%;
+    padding-bottom: 2%;
+}
+.container {
+  padding-top: 7%;
+  padding-left: 12%;
+}
+.signin {
+  border-left: 20px;
+  padding-left: 20px;
+  border-left: 2px solid white;
+}
+
+.container img {
+  padding-right: 5%;
+  width: 25%;
+  height: 75%;
+}
+
+.bookinfo {
+  float: left;
+  padding-left: 5%;
+  max-width: 330px;
+  margin-bottom: 10px;
+}
+.bookinfo .form-signin-heading,
+.bookinfo .checkbox {
+  margin-bottom: 10px;
+}
+.bookinfo .checkbox {
+  font-weight: normal;
+}
+.bookinfo .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.bookinfo .form-control:focus {
+  z-index: 2;
+}
+.bookinfo input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+h1 {
+  float: left;
+  font-size: 20pt;
+  padding-bottom: 20px;
+}
+
+.bookimg {
+  float: left;
+  padding-right: 20px;
+  border-right: 2px solid white;
+  clear: left;
+  padding-top: 1%;
+  max-width: 30%;
+  max-height: 75%;
+}
+
+
+
+p {
+  float: left;
+  margin-top: 10px;
+  text-align: left;
+  color: white;
+}
+
+.signup {
+  float: left;
+  padding-left: 30%;
+}
+
+.forget{
+  display: inline;
+  text-align: center;
+  padding-left: 15%;
+}
+
+.form-control {
+  width: 250px;
+}
+
+h2 {
+  float: left;
+  font-size: 13pt;
+  margin-top: 0;
+}
+
+.link {
+  float: right;
+}
+
+.owner {
+  text-align: center;
+  margin-left: 17.5%;
+}
+.owner, .owner a {
+  color: #337AB7;;
+}
